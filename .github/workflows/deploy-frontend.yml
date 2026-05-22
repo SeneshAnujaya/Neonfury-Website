@@ -23,7 +23,7 @@ jobs:
 
             git pull origin main
 
-            cd client
+            # cd client
             npm install
             npm run build
 
