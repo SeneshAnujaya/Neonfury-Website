@@ -19,7 +19,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
 
           script: |
-            cd /var/www/neonfury-frontend
+            cd /var/www/neonfury
 
             git pull origin main
 
