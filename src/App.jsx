@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import Features from "./components/Features";
 import Trailer from "./components/Trailer";
 import Footer from "./components/Footer";
-import './app.css';
+import './App.css';
 
 export default function App() {
   return (
