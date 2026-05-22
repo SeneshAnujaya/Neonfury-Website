@@ -13,7 +13,7 @@ export default function Hero() {
 
       <p className="mt-6 max-w-xl text-gray-400">
         A next-generation 5v5 tactical FPS where cyber agents fight for control
-        in a neon-drenched battlefield via github action.
+        in a neon-drenched battlefield via github action VPS.
       </p>
 
       <div className="mt-8 flex gap-4">
