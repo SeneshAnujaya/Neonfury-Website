@@ -8,7 +8,7 @@ export default function Hero() {
 
       <h2 className="text-5xl md:text-7xl font-extrabold leading-tight">
         Enter the world of <br />
-        <span className="text-cyan-400">NEONFURY</span>
+        <span className="text-cyan-400">NEONFURY SENESH</span>
       </h2>
 
       <p className="mt-6 max-w-xl text-gray-400">
